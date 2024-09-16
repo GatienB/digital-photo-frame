@@ -1,0 +1,11 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+Pillow===9.0.1
+numpy
+pytz===2021.3
+opencv-python
+firebase_admin
+bs4
+python-dotenv
+requests

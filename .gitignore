@@ -1,0 +1,6 @@
+attachments/
+src/__pycache__
+/token.json
+.env
+*credentials.json
+.idea
